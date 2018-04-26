@@ -1,0 +1,13 @@
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\bin\Debug\FinalGame.exe.config
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\bin\Debug\FinalGame.exe
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\bin\Debug\FinalGame.pdb
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\bin\Debug\FinalGame.xml
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.vbprojResolveAssemblyReference.cache
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.Form2.resources
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.Resources.resources
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.vbproj.GenerateResource.Cache
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.vbproj.CoreCompileInputs.cache
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.exe
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.xml
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.pdb
+C:\Users\Aditya Kendre\desktop\FinalGame\FinalGame\obj\Debug\FinalGame.Form1.resources
